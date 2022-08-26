@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 <!--- 💞️ I’m looking to collaborate on ...
 -->
-- 📫 How to reach me: Discord
+- 📫 How to reach me: Discord: Luz5020 #3258
 
 <!---
 Luz5020/Luz5020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
