@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luz5020
 - 👀 I’m interested in Machine Learning, Automation
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying Business Informatics
 <!--- 💞️ I’m looking to collaborate on ...
 -->
 - 📫 How to reach me: Discord: Luz5020 #3258
